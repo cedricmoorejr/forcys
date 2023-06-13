@@ -1,5 +1,5 @@
 # fORCYS
-fORCYS is a simple desktop application designed to manage wood pellet inventory. The application is built on top of a SQL database and is used for plant managers to update the inventory on hand. End users, such as those with corporate functions can also run reports from the application.
+fORCYS is a simple desktop application designed to manage wood pellet inventory. The application is built on top of a SQL database and is used for plant managers to update the inventory on hand. End users, such as those with corporate functions can also run reports from the application. Please note that the code has been heavily modified to exclude sensitive information.
 
 
 # Splash
